@@ -1,6 +1,6 @@
-token=NTAzOTg1ODc5NjgxODU5NjA3.Dq-hBw.-wVAzstWsUgeezFMt4OVUZvMpvQ
-owner=490076609215201282
-prefix=B
-game=Type Bplay
+token=NTA1MzExMTY3MTU4Mjg4NDA0.DrWXOA.MoxrrS5hWJ4Z6Gt016D_7eBy9Gg
+owner=505311167158288404
+prefix=N
+game=Type Nplay
 stayinchannel=true
 songinstatus=true
