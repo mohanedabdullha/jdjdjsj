@@ -1,5 +1,5 @@
 token=NTA1MzExMTY3MTU4Mjg4NDA0.DrWXOA.MoxrrS5hWJ4Z6Gt016D_7eBy9Gg
-owner=505311167158288404
+owner=477729848257937409
 prefix=N
 game=Type Nplay
 stayinchannel=true
